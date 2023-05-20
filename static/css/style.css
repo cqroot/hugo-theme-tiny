@@ -1,0 +1,36 @@
+.app {
+  text-align: center;
+  max-width: 800px;
+  margin: 100px auto;
+}
+
+.main-title {
+  color: #000080;
+}
+
+.nav a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: yellow;
+}
+
+.list-item {
+  width: 100%;
+  text-align: left;
+}
+
+.list-item a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.list-item a:hover {
+  text-decoration: underline;
+}
+
+.list-item time {
+  float: right;
+}
